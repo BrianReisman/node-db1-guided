@@ -1,5 +1,5 @@
 const express = require("express");
-
+// keep going... open ./posts/post-router.js and see where its "require" leads.
 const PostRouter = require("../posts/post-router.js");
 
 const server = express();

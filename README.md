@@ -1,4 +1,4 @@
-# Introduction to Relational Databases, SQL and Knex
+# Introduction to Relational Databases, SQL and Knex [branch: 20210323]
 
 In this project we will cover the basics of `Structure Query Language (SQL)`, `Relational Databases`, and `Knex.js Queries`.
 
